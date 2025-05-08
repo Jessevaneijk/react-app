@@ -5,7 +5,6 @@ function App() {
     "New York",
     "San Fancisco",
     "tokyo",
-    "Paris",
     "Melbourn",
     "Auckland",
   ];
